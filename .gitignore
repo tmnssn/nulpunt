@@ -18,3 +18,5 @@
 
 *.rice-box.go
 .idea
+
+.project
